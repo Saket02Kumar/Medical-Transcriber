@@ -22,7 +22,7 @@ The Medical Transcriber is an AI-powered application designed to assist healthca
 - **Pyttsx3**: For text-to-speech conversion.
 - **LangChain**: For managing conversational AI and message handling.
 - **MongoDB**: For data storage and retrieval.
-- **LangGraph**: For managing Agentic Workflows
+- **LangGraph**: For managing Agentic Workflows.
 
 ## Installation
 
@@ -63,7 +63,6 @@ To set up the Medical Transcriber on your local machine, follow these steps:
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
+I have a lot of plans for this project. It is still in progress :p
 
-I have a lot of plans for this project. It is still in progress :p 
-
-  To be continued....
+To be continued....
